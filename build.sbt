@@ -23,3 +23,4 @@ resolvers ++= Seq(
   "Spray" at "http://repo.spray.cc"
 )
 
+test in assembly := {}
